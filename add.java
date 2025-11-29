@@ -1,4 +1,4 @@
-public class lakshmi;
+public class lakshmi
 {
   public static void main(String[]args)
     {
